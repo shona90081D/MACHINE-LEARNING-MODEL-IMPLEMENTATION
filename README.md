@@ -54,7 +54,7 @@ This task illustrates the end-to-end workflow of creating a machine learning mod
 
 ![Image](https://github.com/user-attachments/assets/5a7cbc7d-dad2-4135-bafd-0c91f5773184)
 
-
+![Image](https://github.com/user-attachments/assets/24e9d3fb-96c1-4e47-afdd-976e88e7c1d9)
 
 
 
