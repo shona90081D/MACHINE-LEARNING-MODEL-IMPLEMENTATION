@@ -50,6 +50,7 @@ Evaluating model performance
 This task illustrates the end-to-end workflow of creating a machine learning model for spam detection using Scikit-learn. It showcases essential steps in text classification and provides a foundation for more advanced natural language processing (NLP) projects.
 ### OUTPUT
 
+![Image](https://github.com/user-attachments/assets/11790a5d-0c15-45da-bc3c-1b898f1d6db5)
 
 
 
